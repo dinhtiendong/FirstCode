@@ -1,0 +1,7 @@
+HTML Element:
+HTML được cấu tạo các tagname là các thẻ có mở tag và đóng tag
+
+HTML Attributes: các thuộc tính là các cái bổ xung ý nghĩa cho ta
+
+SCSS:
+- Nested: thằng cha lồng thằng con
